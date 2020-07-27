@@ -16,15 +16,19 @@
     "languages": [
         {
             "name": "English",
-            "level": "native"
-        },
-        {
-            "name": "German",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Spanish",
+            "level": "working knowledge"
+        },
+        {
+            "name": "German",
             "level": "basic"
+        },
+        {
+            "name": "French",
+            "level": "native"
         }
     ],
     "social": [
