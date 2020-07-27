@@ -8,11 +8,11 @@
     "telephone": "",
     "website": "https://jm.lauranson.com",
     "skills": [
-        "Web Development",
-        "IT Support and Training",
-        "IT Infrastructure Administration",
         "IT Project Management",
-        "IT Security"
+        "IT Security",
+        "IT Infrastructure Administration",
+        "Web Development",
+        "IT Support and Training"
     ],
     "languages": [
         {
