@@ -4,12 +4,12 @@
 
     <p class="entry__time">
       <time class="dt-start" datetime="{{ entry.data.start | dateToFormat("yyyy-MM-dd") }}">
-        {{ entry.data.start | dateToFormat("yyyy/MM") }}
+        {{ entry.data.start | dateToFormat("yyyy/MMM") }}
       </time>
       <span>&ndash;</span>
       {% if entry.data.end %}
         <time class="dt-end" datetime="{{ entry.data.end | dateToFormat("yyyy-MM-dd") }}">
-          {{ entry.data.end | dateToFormat("yyyy/MM") }}
+          {{ entry.data.end | dateToFormat("yyyy/MMM") }}
         </time>
       {% else %}
         <span>Present</span>
