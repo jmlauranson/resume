@@ -2,9 +2,10 @@
 title: Security Projects Administrator
 organization: INTERPOL
 organizationUrl: https://www.interpol.int
-location: Lyon, fr
+location: Worldwide
 start: 2007-06-01
 end: 2018-09-01
 ---
 
-Ipsum a arcu cursus vitae congue. Arcu ac tortor dignissim convallis. Integer malesuada nunc vel risus commodo. Vitae turpis massa sed elementum. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum.
+Planned, design, and implementation of several IT security projects in Public Safety.
+Ensured the smooth operation of INTERPOL’s secured global information system, which comprises over 10000 users.

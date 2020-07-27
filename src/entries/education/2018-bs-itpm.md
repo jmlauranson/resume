@@ -6,3 +6,5 @@ location: Limoges, FR
 start: 2017-09-01
 end: 2018-09-01
 ---
+
+Managed IT projects and operations – coordinated teams.
