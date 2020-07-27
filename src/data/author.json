@@ -1,19 +1,18 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
+    "name": "JM Lauranson",
+    "occupation": "IT Consultant",
     "location": "Vienna, AT",
     "avatar": "avatar.jpg",
     "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "jm@lauranson.com",
+    "telephone": "",
+    "website": "https://jm.lauranson.com",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Web Development",
+        "IT Support and Training",
+        "IT Infrastructure Administration",
+        "IT Project Management",
+        "IT Security"
     ],
     "languages": [
         {
@@ -32,13 +31,13 @@
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
+            "user": "@jmlauranson",
             "url": "https://github.com/annaquincey"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "jmlauranson",
+            "url": "https://www.linkedin.com/in/jmlauranson"
         }
     ]
 }
