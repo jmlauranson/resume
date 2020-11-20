@@ -1,5 +1,5 @@
 ---
-title: Associate's Degree in IT Support, Systems and Network Administration
+title: Associate's Degree in Information Technology
 organization: CESI Rhone Alpes
 organizationUrl: https://catalogue.cesi.fr/gestionnaire-en-maintenance-et-support-informatique-2169019-2020/
 location: Ecully, France
