@@ -1,5 +1,5 @@
 ---
-title: IT Consultant
+title: International IT Consultant
 organization: Freelance
 organizationUrl: https://jm.lauranson.com
 location: Vienna, Austria
